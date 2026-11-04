@@ -6,3 +6,5 @@
   - EEPIS (Electronics Engineering Polytechnic Institute of Surabaya)
 - Facts:
   - Has enrolled in CS50x in 2025
+  - Has no Windows installed
+  - "I use arch btw"
